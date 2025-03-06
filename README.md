@@ -39,3 +39,5 @@ The prediction is based on a **probabilistic score** derived from the model's co
 
 4. **Result Display**:
    - The application displays the result in a message box, along with the predicted score.
+
+Authors: Raul Raudsepp, Imre Saks, Mihkel Orasmäe
